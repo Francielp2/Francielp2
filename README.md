@@ -116,4 +116,4 @@ Although Backend is my main interest, I enjoy developing complete web applicatio
 
 ---
 
-> *"Vejo a programação como um processo contínuo de aprendizado. Cada projeto é uma oportunidade para compreender melhor como construir soluções úteis, organizadas e cada vez mais robustas."*
+> **" Toda evolução nasce da decisão de ir além do que parecia suficiente. "**
