@@ -87,7 +87,6 @@ Although Backend is my main interest, I enjoy developing complete web applicatio
 
 * Python e Django
 * Desenvolvimento Backend
-* APIs REST
 * Modelagem de Banco de Dados
 * Integração com APIs de IA
 * Git e boas práticas de versionamento
